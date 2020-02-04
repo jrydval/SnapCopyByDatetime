@@ -1,7 +1,7 @@
 SnapCopyByDatetime
 ==================
 
-Copy files from a camera upload directory to directories organized by creation date
+The script copies files from a camera upload directory to directories organized by creation date
 
 I am using the script together with Fujifilm PCAutoSave utility to copy the snaps from PCAutoSave upload directory to a directory tree organized by snaps creation date.
 
